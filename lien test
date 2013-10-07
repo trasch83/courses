@@ -1,0 +1,8 @@
+
+
+http://127.0.0.1:8080/sarah/courses?commande=lire
+http://127.0.0.1:8080/sarah/courses?code=3029330003533
+http://127.0.0.1:8080/sarah/courses?commande=supprime
+
+
+http://fr.openfoodfacts.org/api/v0/produit/3029330003533.json
